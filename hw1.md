@@ -1,11 +1,5 @@
 <h1>HW1</h1>
-<table>
-  <tr>
-    <td style="width:50%">
-      <img src="https://raw.githubusercontent.com/ncudemo/yzu-swiftui-1121-864106/main/hw1-20231002-1.png">
-    </td>
-    <td>
-      
+    
 ```swift
 
       import SwiftUI
@@ -55,7 +49,5 @@ struct ContentView: View {
 
     
 ```
-</td>
-</tr>
-</table>
-    
+
+<img width="40%"  src="https://raw.githubusercontent.com/ncudemo/yzu-swiftui-1121-864106/main/hw1-20231002-1.png">
